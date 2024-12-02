@@ -1,0 +1,23 @@
+.Login {
+    padding: 20px;
+  }
+  
+  h2 {
+    color: #ff6347;
+  }
+  
+  input {
+    margin: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 10px;
+    border: none;
+    background-color: #4CAF50;
+    color: rgb(204, 189, 189);
+    cursor: pointer;
+  }
+  

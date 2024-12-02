@@ -1,0 +1,18 @@
+/* src/styles.css */
+
+.dashboard-container {
+    padding: 20px;
+    background-color: #f4f4f4;
+  }
+  
+  .schedule {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-top: 20px;
+  }
+  
+  .schedule h2 {
+    color: #333;
+  }
+  

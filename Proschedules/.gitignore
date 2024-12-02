@@ -1,0 +1,46 @@
+ECHO is on.
+# Node.js dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variable files
+.env
+
+# Build output
+build/
+dist/
+
+# IDE/editor-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+
+# Package-lock.json and Yarn lock (can be optional based on project preference)
+package-lock.json
+yarn.lock
+
+# Database files (if using SQLite or any local database)
+*.sqlite
+*.db
+
+# Coverage directory from testing
+coverage/
+
+# React-specific files
+/build
+/.cache
+
+# Miscellaneous
+*.bak
+*.tmp

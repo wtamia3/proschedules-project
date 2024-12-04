@@ -1,4 +1,4 @@
-ProSchedules
+ProSchedules- (Github/Code link: https://github.com/wtamia3/proschedules-project.git)
 ProSchedules is a feature-rich app designed to assist users in managing their daily tasks, tracking activities, monitoring calorie intake and expenditure, and receiving personalized lifestyle advice. It is a multi-platform solution with a web-based interface and a mobile Android application.
 
 Features
@@ -19,7 +19,7 @@ To get started, clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/wtamia3/proschedules.git
+git clone (https://github.com/wtamia3/proschedules-project.git)
 cd proschedules
 Install Dependencies
 Backend
